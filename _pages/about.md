@@ -13,3 +13,6 @@ I'm currently working as a Junior Researcher and Research Assistant at Pontifici
 I try to answer questions in those fields with both empirical and theoretical tools.
 
 You can find my CV <a href="https://sjpoblete.github.io/files/CV_SPoblete.pdf">here</a>
+
+You can reach me at <a href="mailto:sjpoblete@uc.cl">sjpoblete [at] uc [dot] cl</a>
+
