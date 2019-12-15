@@ -10,8 +10,8 @@ author_profile: true
 Work in Progress
 ======
   * School Value-Added and the Math Gender Gap in Chile",
-with Tomas Rau (PUC{Chile)
+with Tomas Rau (PUC-Chile)
   * Labor Market Effects of a Maternity Leave Extension: Evidence from Chile",
-with Tomas Rau (PUC{Chile)
+with Tomas Rau (PUC-Chile)
   * The footprint of Drugs: Socio-economic Impacts of DTO's violence in Mexico",
 with Jose Diego Salas (Northwestern University)
