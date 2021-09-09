@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently working as a Junior Researcher and Research Assistant at Pontificia Universidad Catolica de Chile (PUC--Chile). My main research interests lie in the fields of development and labor economics, political economy and applied microeconometrics. 
-
-I try to answer questions in those fields with both empirical and theoretical tools.
+I'm currently a PhD Student at Northwestern University. My main research interests lie in the intersection of appllied microeconomics questions and empirical industrial organization. 
 
 You can find my CV <a href="https://sjpoblete.github.io/files/CV_SPoblete.pdf">here</a>
 
-You can reach me at <a href="mailto:sjpoblete@uc.cl">sjpoblete [at] uc [dot] cl</a>
+You can reach me at <a href="mailto:sebapoblete@u.northwestern.edu">sebapoblete [at] u [dot] northwestern [dot] edu</a>
 
