@@ -15,3 +15,6 @@ with Tomas Rau (PUC-Chile)
 with Tomas Rau (PUC-Chile)
   * The footprint of Drugs: Socio-economic Impacts of DTO's violence in Mexico",
 with Jose Diego Salas (Northwestern University)
+  * “Identifying the Spillover and Congestion Effects of Large Scale Information Interventions”,
+with Claudia Allende (Stanford GSB), Francisco Gallego (PUC–Chile), Christopher Neilson
+(Princeton), and Fernando Ochoa (NYU)
