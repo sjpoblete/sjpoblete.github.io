@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Sebastian Poblete"
 title_separator          : "-"
 name                     : &name "Sebastian Poblete"
-description              : &description "PhD Student @ Northwestern University"
+description              : &description "PhD Candidate @ Northwestern University"
 url                      : https://sjpoblete.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sjpoblete/sjpoblte.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Sebastian Poblete"
   avatar           : "profile.jpeg"
-  bio              : "Junior Researcher and Lecturer at PUC--Chile"
+  bio              : "PhD Candidate, Northwestern University"
   location         : "Santiago, Chile"
   employer         :
   pubmed           : 
