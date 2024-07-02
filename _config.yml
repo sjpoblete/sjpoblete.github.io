@@ -87,7 +87,7 @@ author:
   location         : "Santiago, Chile"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=xvczNAEAAAAJ" 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
