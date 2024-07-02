@@ -10,7 +10,7 @@ author_profile: true
 
 Publications
 ======
-  * [Teacher Value-Added and the Test Score Gender Gap](https://www.sciencedirect.com/science/article/pii/S0927537124000836). *Forthcoming*, Labour Economics.
+  * [Teacher Value-Added and the Test Score Gender Gap](https://www.sciencedirect.com/science/article/pii/S0927537124000836). Forthcoming, *Labour Economics*. \
 with Andrés García-Echalar (Universidad de Los Andes, Chile) and Tomás Rau (PUC-Chile)
 
 Work in Progress
