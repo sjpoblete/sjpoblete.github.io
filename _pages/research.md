@@ -16,7 +16,7 @@ with [Andrés García-Echalar](https://sites.google.com/view/agarciaechalar) (Un
 Work in Progress
 ======
   * Union Bargaining Schemes in the Presence of Labor Market Power,
- with [Gustavo González](https://sites.google.com/view/agarciaechalar) (Central Bank, Chile)
+ with [Gustavo González](https://sites.google.com/view/gustavo-gonzalez) (Central Bank, Chile)
   * School Value-Added and the Math Gender Gap in Chile". *Submitted*,
 with [Tomas Rau](https://sites.google.com/site/tomasraubinder) (PUC-Chile)
   * Labor Market Effects of a Maternity Leave Extension: Evidence from Chile". *Submitted*,
