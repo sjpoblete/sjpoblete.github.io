@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a PhD Student at [Northwestern University](https://economics.northwestern.edu/). My main research interests lie in the intersection of appllied microeconomics questions and empirical industrial organization. 
+Welcome! I'm and economists, currently a PhD Candidate at [Northwestern University](https://economics.northwestern.edu/). My main research interests lie in the intersection of appllied microeconomics questions and empirical industrial organization. 
 
 You can find my CV <a href="https://sjpoblete.github.io/files/CV_SPoblete.pdf">here</a>
 
