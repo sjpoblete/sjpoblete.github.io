@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm an economist and a PhD Candidate at [Northwestern University](https://economics.northwestern.edu/). <br> I'm in the 2026-2027 Job Market.<br> My job market paper is ``Multi-unit Union Bargaining in the Presence of Labor Market Power'', you can find an updated draft <a href="https://sjpoblete.github.io/files/SPoblete_JMP_Unions.pdf">HERE</a>
+Welcome! I'm an economist and a PhD Candidate at [Northwestern University](https://economics.northwestern.edu/). <b> I'm in the 2026-2027 Job Market.</b> My job market paper is ``Multi-unit Union Bargaining in the Presence of Labor Market Power'', you can find an updated draft <a href="https://sjpoblete.github.io/files/SPoblete_JMP_Unions.pdf">HERE</a>
 
 You can find my CV <a href="https://sjpoblete.github.io/files/CV_SPoblete.pdf">here</a>
 
