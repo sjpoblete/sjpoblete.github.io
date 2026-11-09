@@ -10,15 +10,16 @@ author_profile: true
 Job Market Paper
 ======
   * <a href="https://sjpoblete.github.io/files/SPoblete_JMP_Unions.pdf">Multi-unit Union Bargaining in the Presence of Labor Market Power </a>,
- with [Gustavo González](https://sites.google.com/view/gustavo-gonzalez) (Central Bank, Chile)
+ with [Gustavo González](https://sites.google.com/view/gustavo-gonzalez) (PUC-Chile) and [Nicolás Rivera](https://www.linkedin.com/in/nicolas-rivera-gonzalez/) (Banco Central de Chile)
 
 Publications
 ======
   * [Teacher Value-Added and the Test Score Gender Gap](https://www.sciencedirect.com/science/article/pii/S0927537124000836). (2024)  *Labour Economics*. \
 with [Andrés García-Echalar](https://sites.google.com/view/agarciaechalar) (Universidad de Los Andes, Chile) and [Tomás Rau](https://sites.google.com/site/tomasraubinder) (PUC-Chile)
 
-
+Pre-Doctoral Work
+======
   * School Value-Added and the Math Gender Gap in Chile". *Submitted*,
 with [Tomas Rau](https://sites.google.com/site/tomasraubinder) (PUC-Chile)
-  * Labor Market Effects of a Maternity Leave Extension: Evidence from Chile". *Submitted*,
+  * Labor Market Effects of a Maternity Leave Extension: Evidence from Chile". *Revise and Resubmite, Journal of Development Studies*,
 with [Tomas Rau](https://sites.google.com/site/tomasraubinder) (PUC-Chile)
