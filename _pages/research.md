@@ -9,7 +9,7 @@ author_profile: true
 
 Job Market Paper
 ======
-  * <a href="https://sjpoblete.github.io/files/SPoblete_JMP_Unions.pdf">Multi-unit Union Bargaining in the Presence of Labor Market Power </a>,
+  * <a href="https://sjpoblete.github.io/files/SPoblete_JMP_Unions.pdf">Multi-unit Collective Bargaining in the Presence of Labor Market Power </a>,
  with [Gustavo González](https://sites.google.com/view/gustavo-gonzalez) (PUC-Chile) and [Nicolás Rivera](https://www.linkedin.com/in/nicolas-rivera-gonzalez/) (Banco Central de Chile)
 
 Publications
