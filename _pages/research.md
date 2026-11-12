@@ -21,5 +21,5 @@ Pre-Doctoral Work
 ======
   * School Value-Added and the Math Gender Gap in Chile". *Submitted*,
 with [Tomas Rau](https://sites.google.com/site/tomasraubinder) (PUC-Chile)
-  * Labor Market Effects of a Maternity Leave Extension: Evidence from Chile". *Revise and Resubmite, Journal of Development Studies*,
+  * Labor Market Effects of a Maternity Leave Extension: Evidence from Chile". *Revise and Resubmit, Journal of Development Studies*,
 with [Tomas Rau](https://sites.google.com/site/tomasraubinder) (PUC-Chile)
